@@ -18,7 +18,7 @@
     "url": "https://github.com/benjaminlai/aus-locations"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "config": {
     "commitizen": {
