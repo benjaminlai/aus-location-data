@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/benjaminlai/aus-postcode-suburbs/compare/v1.3.0...v1.3.1) (2024-11-13)
+
+
+### Bug Fixes
+
+* bump version ([2d053c9](https://github.com/benjaminlai/aus-postcode-suburbs/commit/2d053c9be95485d47ba5078b9bf8465b3f8d6379))
+
 # [1.3.0](https://github.com/benjaminlai/aus-postcode-suburbs/compare/v1.2.0...v1.3.0) (2024-11-13)
 
 
