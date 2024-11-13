@@ -1,6 +1,6 @@
-# Aus Locations
+# Aus Postcode Suburbs
 
-`aus-locations` is a lightweight TypeScript library that provides Australian postcode and suburb data. This package is ideal for applications that require accurate and up-to-date location data for Australian postcodes and suburbs, supporting quick lookups, validation, and regional filtering.
+`aus-postcode-suburbs` is a lightweight TypeScript library that provides Australian postcode and suburb data. This package is ideal for applications that require accurate and up-to-date location data for Australian postcodes and suburbs, supporting quick lookups, validation, and regional filtering.
 
 ## Features
 
