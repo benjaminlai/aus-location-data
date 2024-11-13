@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/benjaminlai/aus-locations/compare/v1.0.0...v1.1.0) (2024-11-13)
+
+
+### Features
+
+* add find by postcodes ([224a361](https://github.com/benjaminlai/aus-locations/commit/224a361ed01ec0be7a5e38abc44e672b1a9c9025))
+* postcodes ([9d5dd61](https://github.com/benjaminlai/aus-locations/commit/9d5dd61b78a4d96f77b36041a40c01afbe002800))
+* postcodes ([99d6e86](https://github.com/benjaminlai/aus-locations/commit/99d6e86a44b8cd52e87cdeab0903cea4e44aa4c0))
+
 # 1.0.0 (2024-11-12)
 
 
