@@ -7,6 +7,6 @@
     "removeComments": true,
     "sourceMap": false
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts", "**/resources/*.json"],
   "exclude": ["node_modules", "src/**/*.test.ts", "src/**/test-utils.ts", "src/**/testUtils.ts", "src/utilities"]
 }
