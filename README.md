@@ -9,6 +9,10 @@
 - **Lightweight**: Optimized for performance, with minimal dependencies.
 - **Regular Updates**: Maintained with up-to-date data from Australian location sources.
 
+## Data Source
+
+This package uses Australian postcode data from [Matthew Proctor's Australian Postcodes](https://www.matthewproctor.com/australian_postcodes#downloadlinks). We thank Matthew Proctor for providing this valuable data to the community.
+
 ## Installation
 
 Install the package via yarn:
