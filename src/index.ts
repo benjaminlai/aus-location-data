@@ -1,1 +1,1 @@
-export * as AusPostcodes from './postcodes';
+export * from './postcodes';
